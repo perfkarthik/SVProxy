@@ -1,0 +1,1 @@
+web: java -jar wiremock-standalone-2.21.0.jar --port $PORT --verbose
